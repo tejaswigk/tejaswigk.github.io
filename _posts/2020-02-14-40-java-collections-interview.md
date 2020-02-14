@@ -67,7 +67,7 @@ Collections are used in every programming language and initial java release cont
 Java Collections have come through a long way with the usage of Generics and Concurrent Collection classes for thread-safe operations. It also includes blocking interfaces and their implementations in java concurrent package.
 Some of the benefits of collections framework are;
 
-* Reduced development effort by using core collection classes rather than implementing our own collection classes.
+- Reduced development effort by using core collection classes rather than implementing our own collection classes.
 * Code quality is enhanced with the use of well tested collections framework classes.
 * Reduced effort for code maintenance by using collection classes shipped with JDK.
 * Reusability and Interoperability
